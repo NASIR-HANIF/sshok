@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+nav .logo{
+    width: 100vw;
+    background-color: rgb(163, 204, 240);
+    color: rgb(19, 20, 14);
+    text-align: center;
+    padding: 2rem;
+}
+.first ,.sec{
+    width: 600px;
+    height: auto;
+    padding: 2rem;
+    background-color: aquamarine;
+    margin: 25px auto;
+}
+.first , .sec h1{
+     color: red;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.first ,.sec p{
+    color: blue;
+    font-size: 1.6rem;
+    font-style: oblique;
+}
+.footer{
+    width: 100vw;
+    background-color: blueviolet;
+    padding: 2rem;
+    text-align: center;
+}
+.three , .four{
+    width: 700px;
+    padding: 3rem;
+    background-color: rgba(231, 108, 60, 0.637);
+    color: antiquewhite;
+}
